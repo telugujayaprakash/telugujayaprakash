@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Jayaprakash<br><br>- 🔭 I’m working on my skills<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I create random websites & play chess</p>
+<p align="left">I'm Jayaprakash<br><br>- 🔭 I’m working on my skills<br>- 📚 I'm currently learning Core Python<br>- ⚡ In my free time I create random websites & play chess</p>
 
 ###
 
