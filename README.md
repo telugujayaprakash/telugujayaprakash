@@ -1,7 +1,7 @@
 <!-- <div align="center">
  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>-->
-<h1 align="center">Jayaprakash</h1>
+<h1 align="center">Hey I'm Jayaprakash</h1>
 
 ###
 
@@ -18,14 +18,9 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=telugujayaprakash.telugujayaprakash&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
