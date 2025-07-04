@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Jayaprakash<br><br>- 🔭 I’m working on my skills<br>- 📚 I'm currently learning Core Python<br>- ⚡ In my free time I create random websites & play chess</p>
+<p align="left">I'm Jayaprakash<br><br>- 🔭 I’m an Intern at @CommuSync<br>- 📚 I'm Always look forward to learn new skills<br>- ⚡ In my free time I create random websites & play chess</p>
 
 ###
 
