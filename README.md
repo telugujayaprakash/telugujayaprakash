@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Jayaprakash<br><br>- 🔭 @Chitram Cinema<br>- 📚 I'm Always look forward to learn new skills<br>- ⚡ Hobbies :-Watch Web Series & playing chess</p>
+🧑‍💻 @Chitram Cinema<br>- 📚 I'm Always look forward to learn new skills<br>- ⚡ Hobbies :-Watch Web Series & playing chess</p>
 
 ###
 
