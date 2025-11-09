@@ -28,7 +28,7 @@
 
 ###
 
-- 📚 I'm Always look forward to learn new skills<br>- ⚡ Hobbies :-Watching Web Series & playing chess</p>
+- 📚 I'm Always look forward to learn new skills<br> - ⚡ Hobbies :-Watching Web Series & playing chess</p>
 
 ###
 
